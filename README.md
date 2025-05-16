@@ -1,7 +1,5 @@
 # Reinforcement-Learning
 
-#  Reinforcement Learning Projects
-
 Welcome to my Reinforcement Learning (RL) repository. This repository contains collection of projects, experiments, and notes inspired by the classic textbook **"Reinforcement Learning: An Introduction"** by Richard S. Sutton and Andrew G. Barto (2nd Edition).
 
 Whether you're a student, researcher, or enthusiast, you'll find clear implementations of foundational RL concepts here—each with the aim of making complex algorithms more accessible and understandable.
